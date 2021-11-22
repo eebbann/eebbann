@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Eban Emmanuel @eebbann
-- 👀 I’m a software developer interested in JavaScript , FINTECH, MOBILE DEVELOPMENT  AND DEVOPS
-- 🌱 I’m currently learning ... aws amplifies, web3, blockchain , python 
-- 💞️ I’m looking to collaborate on react-native & react, 
-- 📫 How to reach me : emmanuel.eban@conicapps.com , https://www.linkedin.com/in/eebann/
+# Hi, I’m Eban Emmanuel  👋
+
+- 👀 I’m a software developer interested in JavaScript, FinTech, Mobile development, and DevOps
+- 🌱 I’m currently learning AWS amplifies, Web 3.0, blockchain, and Python
+- 💞️ I’m looking to collaborate on React-native and React
+- 📫 How to reach me: emmanuel.eban@conicapps.com
+- 🤝 Connect with me on LinkedIn: <https://www.linkedin.com/in/eebann/>
 
 <!---
 available!!
